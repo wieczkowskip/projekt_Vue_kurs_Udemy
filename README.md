@@ -6,4 +6,5 @@ Widok przeglądania zakładek oraz możliwość usuwania przyciskiem "Delete":
 ![1](https://user-images.githubusercontent.com/75487443/137600614-b89090be-1f85-459c-ad64-0ae290b3ddbd.JPG)
 
 Widok dodawania nowej zakładki:
+
 ![2](https://user-images.githubusercontent.com/75487443/137600617-d8c31b5e-5a4d-4e00-85de-3857a9ece39c.JPG)
